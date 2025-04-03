@@ -40,13 +40,6 @@ Atlanta Ink - Tattoo Studio: Hybrid web system developed with Next.js on the fro
 
 ## 💻 General
 
-### 🗃️ Repository
-
-Clone the repository.
-
-```bash
-git clone git@github.com:tyronejosee/project_atlanta_ink.git
-```
 
 ### 🌱 Contribute
 
